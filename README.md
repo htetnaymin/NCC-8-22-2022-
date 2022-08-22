@@ -1,5 +1,7 @@
 # NCC-8-22-2022-
-<h1>You must change setting in the following.Before you run the program.</h1>
+<h1>You must change setting in the following.<br>
+Before you run the program.<br>
+Don't Run with built-in clion concole.</h1>
 
 <h3>1.Mark the run in external console</h3>
 
